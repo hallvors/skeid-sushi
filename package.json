@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.19.2",
     "express-handlebars": "^8.0.1"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.8"
   }
 }

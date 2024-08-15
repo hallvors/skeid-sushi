@@ -56,7 +56,7 @@ h3 {
 }
 
 .slider {
-  width: 90wv;
+  width: 100wv;
   text-align: center;
   overflow: hidden;
 }
@@ -106,10 +106,9 @@ h3 {
   background: transparent;
 }
 .slides > div {
-  scroll-snap-align: start;
+  scroll-snap-align: center;
   flex-shrink: 0;
-  width: 90vw;
-  margin-right: 50px;
+  width: 100%;
   border-radius: 10px;
   background: #eee;
   transform-origin: center center;
